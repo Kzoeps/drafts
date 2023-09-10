@@ -1,0 +1,15 @@
+In the last year, I've been very motivated to build small businesses in the bhutanese economy and to be able to sustain myself plus be able to save and help others a bit. One of the biggest plus points of building software businesses is the permisionless nature where you don't need any capital to start one, but the biggest obstacle to making a living from it is payments. Because it is all online cash, is not an option, so one of the biggest crutches to making a living from it is to have a good online payments system.
+
+And that is where when I think of doing this, I get stumped because the payments system in bhutan is kinda frustrating. I say frustrating because mobile banking is popular and so integrated into our daily life but internet transactions seem to be almost non-existent other than in government services. 
+
+Before I shit on the current system, I still wanna give credits where credit is due. The RMA system has been working on the infrastucture especially to facilitate inter-bank transfer and to digitize it further. They do a lot of the background work which goes unappreciated since we the end users never have to deal with it much. But I think there is still a huge potential and progress to be made in online payments.
+
+Currently the RMA provides a payments system called the domestic payment gateway. Pero its not the best. It works, but thats about it, it just works. Theres a lotta problems or to frame it differently a lotta low hanging fruits they could tackle. And I think domestic payments could really help make online economy more vibrant and thriving, especially small startup scenes.
+
+To get access the RMA Payment portal, we neewd to fil a 3 page form, get a notarized statement of account from the bank, submit it physically RMA gi office na. And then have the RMA system test for 99% uptime, gadhay bay bayw ena? I have no idea, charo chi gi labsay they just check whether your website is online or not. Its also quite ironic that they deman 99% uptime when the RSTA website page crashes everytime when you try and sign up for a drivers test.
+
+This friction in trying to access the payment portal shows in the data as well. Where there is only 94 registered merchants out of which only 67 are active. That is a very small number in a time where everything is moving to software and online payments are becoming more of the norm.
+
+From the people I've talked to as well, getting the access to the payment portal is one of the hardest parts of integrating paymnents. If getting access to the system is the hardest part then it prolly means theres a huge number of business owners who give up trying to get it because it is so hard and that there something more here.
+
+Even if some financial service made accesibility easier, I think there are other issues that could be tackled very easily. I have talked to 2 people who used the RMA payment gateway. Conveniently one of them used the web service and the other the API service. But the feedback from both of them wante
